@@ -1,7 +1,8 @@
 # Identicon
 
 ## Goal
-To generate an itenticon
+To generate an itenticon unique to each string value
+![identicon2](https://user-images.githubusercontent.com/40097537/122680430-15d16280-d1bd-11eb-810a-9bc321158eea.JPG)
 
 ## Criteria
 -An identicon is a 250px square made up of a 5x5 grid of squares, each 50 px tall and wide
