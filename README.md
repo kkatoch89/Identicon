@@ -1,7 +1,7 @@
 # Identicon
 
 ## Goal
-To generate an itenticon unique to each string value
+To generate an itenticon unique to each string value (Enter)
 ![identicon2](https://user-images.githubusercontent.com/40097537/122680430-15d16280-d1bd-11eb-810a-9bc321158eea.JPG)
 
 ## Criteria
